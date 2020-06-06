@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/charge-amount-react/static/css/main.1e0d8429.chunk.css",
+    "main.js": "/charge-amount-react/static/js/main.cbf2e617.chunk.js",
+    "main.js.map": "/charge-amount-react/static/js/main.cbf2e617.chunk.js.map",
+    "runtime-main.js": "/charge-amount-react/static/js/runtime-main.9cbf28b1.js",
+    "runtime-main.js.map": "/charge-amount-react/static/js/runtime-main.9cbf28b1.js.map",
+    "static/js/2.daac4cb7.chunk.js": "/charge-amount-react/static/js/2.daac4cb7.chunk.js",
+    "static/js/2.daac4cb7.chunk.js.map": "/charge-amount-react/static/js/2.daac4cb7.chunk.js.map",
+    "index.html": "/charge-amount-react/index.html",
+    "precache-manifest.6fe8441d48c9395d8f1a5d0767ead5ce.js": "/charge-amount-react/precache-manifest.6fe8441d48c9395d8f1a5d0767ead5ce.js",
+    "service-worker.js": "/charge-amount-react/service-worker.js",
+    "static/css/main.1e0d8429.chunk.css.map": "/charge-amount-react/static/css/main.1e0d8429.chunk.css.map",
+    "static/js/2.daac4cb7.chunk.js.LICENSE.txt": "/charge-amount-react/static/js/2.daac4cb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cbf28b1.js",
+    "static/js/2.daac4cb7.chunk.js",
+    "static/css/main.1e0d8429.chunk.css",
+    "static/js/main.cbf2e617.chunk.js"
+  ]
+}
